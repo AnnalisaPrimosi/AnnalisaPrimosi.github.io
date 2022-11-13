@@ -1,0 +1,22 @@
+body {font-family:Times; margin:30px; background:#fff0f5}
+h1 {font-family:Times; color:black; text-align:center;}
+h2 {font-family:Times; color:black; font-size: 22px;}
+p {font-family:Times;text-align:justify}
+table, th, td {border: 1px solid black; font-family:Times; padding:6px}
+
+/*classi*/
+.flex {max-width: 17%}
+.flex1 {max-width: 30%}
+
+    
+/*classe per sfondo nero in alto*/
+.topnav {background-color: #333; opacity: 0.6; overflow: hidden;}
+
+/*a per i link*/
+.topnav a {float: right; color: #f2f2f2; text-align: center; padding: 13px 15px; font-size: 18px; text-decoration: none;}
+
+/* cambia colore parole, hover per quando metto il cursore del mouse sopra */
+.topnav a:hover {background-color: #ddd; color: black;}
+
+
+
